@@ -1,5 +1,5 @@
-# GMT456
-This project is for make plugin at QGIS 3.6
+# "QGIS3 3 - Eklenti Geliştirme Kursu" - 4 Mayıs 2019
 
-if you are a beginner at make QGIS plugin you can watch this tutorial on youtube that may help you to get some information about
-download OSGeo4W for develope plugin and import pb_tool get to start with qgis-designer tool also so go a had and watch this tutorial series link:https://www.youtube.com/watch?v=kZGLm2qFvtc&list=PLzHdTn7Pdxs7mMJWJnX8NQhYJlbz1t4ZF
+Bu kurs kapsamında QGIS 3'de bir eklentinin nasıl geliştirilebleceği anlatılacaktır. Detaylı programa "kurs_programı" adresinden ulaşılabilir. Kurs programının zamanında tamamlanabilmesi için, katılımcıların buradaki kurulum videolarını takip etmeleri önemle rica olunur. 
+https://www.youtube.com/channel/UCoJv-Z0HjB_ZPdv5xrxqxvw
+
